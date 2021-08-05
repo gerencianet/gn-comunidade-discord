@@ -24,7 +24,7 @@ Lembrando que para isso, é necessário que você crie uma [conta no Discord](ht
 
 Com o intuito de separar por tópicos os assuntos abordados, criamos grupos específicos para facilitar a comunicação. Para ajudar, listamos abaixo alguns dos canais disponíveis:
 
-![Canais da comunidade Gerencianet no Discord](https://gnetbr.com/H1xfgCwKkF)
+![Canais da comunidade Gerencianet no Discord](https://gerencianet.github.io/gn-comunidade-discord/assets/img/canais-discord.png)
 
 ## Comportamento
 
@@ -40,18 +40,18 @@ Para conhecer um pouco mais sobre a Gerencianet, acompanhe-nos nas redes sociais
 
 <p align="left">
     <a href="https://www.youtube.com/c/GerencianetBr" target="_blank">
-        <img align="center" src="https://guilhermecotagn.github.io/gn-comunidade-discord/assets/img/youtube.svg" alt="" height="30" width="40" />
+        <img align="center" src="https://gerencianet.github.io/gn-comunidade-discord/assets/img/youtube.svg" alt="" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/Gerencianet" target="_blank">
-        <img align="center" src="https://guilhermecotagn.github.io/gn-comunidade-discord/assets/img/facebook.svg" alt="" height="30" width="40" />
+        <img align="center" src="https://gerencianet.github.io/gn-comunidade-discord/assets/img/facebook.svg" alt="" height="30" width="40" />
     </a>
     <a href="https://twitter.com/gerencianet" target="_blank">
-        <img align="center" src="https://guilhermecotagn.github.io/gn-comunidade-discord/assets/img/twitter.svg" alt="" height="30" width="40"/>
+        <img align="center" src="https://gerencianet.github.io/gn-comunidade-discord/assets/img/twitter.svg" alt="" height="30" width="40"/>
     </a>
     <a href="https://www.instagram.com/gerencianet" target="_blank">
-        <img align="center" src="https://guilhermecotagn.github.io/gn-comunidade-discord/assets/img/instagram.svg" alt="" height="30" width="40" />
+        <img align="center" src="https://gerencianet.github.io/gn-comunidade-discord/assets/img/instagram.svg" alt="" height="30" width="40" />
     </a>
     <a href="https://www.linkedin.com/company/gerencianet" target="_blank">
-        <img align="center" src="https://guilhermecotagn.github.io/gn-comunidade-discord/assets/img/linkedin.svg" alt="" height="30" width="40" />
+        <img align="center" src="https://gerencianet.github.io/gn-comunidade-discord/assets/img/linkedin.svg" alt="" height="30" width="40" />
     </a>    
 </p>
