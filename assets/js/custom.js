@@ -5,8 +5,6 @@
 var html = document.querySelector('html');
 var body = document.querySelector('body');
 
-html.classList.add("hiddenOverflow");
-
 $(window).load(function () {
     body.classList.remove("loading");
     html.classList.remove("hiddenOverflow");
