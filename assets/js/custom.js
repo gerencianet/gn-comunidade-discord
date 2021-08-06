@@ -1,9 +1,15 @@
 /*
- * Poading
+ * Loading
  */
+//if has .loading on body, add  overflow:hidden on html tag
+var html = document.querySelector('html');
+var body = document.querySelector('body');
+
+html.classList.add("hiddenOverflow");
+
 $(window).load(function () {
-    var body = document.querySelector('body');
     body.classList.remove("loading");
+    html.classList.remove("hiddenOverflow");
 });
 
 /*

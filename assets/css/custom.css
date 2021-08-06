@@ -8,7 +8,6 @@ body.loading:after {
     top: 0;
     width: 100vw;
     height: 100vh;
-    overflow: hidden;
     background: #242939;
 }
 
@@ -31,6 +30,10 @@ body.loading:before {
     50% {
         opacity: 0;
     }
+}
+
+.hiddenOverflow {
+    overflow: hidden;
 }
 
 /* /LOADING */
