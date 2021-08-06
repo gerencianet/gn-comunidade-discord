@@ -1,4 +1,12 @@
 /*
+ * Poading
+ */
+$(window).load(function () {
+    var body = document.querySelector('body');
+    body.classList.remove("loading");
+});
+
+/*
  * Random Lottie files de animação
  */
 function animacaoAleatoria() {
@@ -93,6 +101,6 @@ new Date().getFullYear();
 document.getElementById('year').innerHTML = new Date().getFullYear();
 
 // animações
-$(function(){
-    new WOW().init(); 
-  });
+$(function () {
+    new WOW().init();
+});
