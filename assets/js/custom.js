@@ -78,17 +78,17 @@ document.addEventListener('scroll', () => {
             var duracao = 2000;
 
             // Contador de membros da comunidade
-            for (var i = 1; i <= 1600; i++) {
+            for (var i = 1; i <= membrosComunidade.innerHTML; i++) {
                 setTimeout(function (nr) {
                     membrosComunidade.innerHTML = "+" + nr;
-                }, i * duracao / 1600, i);
+                }, i * duracao / membrosComunidade.innerHTML, i);
             }
 
             // Contador de membros da Consultoria Técnica
-            for (var i = 1; i <= 10; i++) {
+            for (var i = 1; i <= membrosSuporte.innerHTML; i++) {
                 setTimeout(function (nr) {
                     membrosSuporte.innerHTML = "+" + nr;
-                }, i * duracao / 10, i);
+                }, i * duracao / membrosSuporte.innerHTML, i);
             }
 
             exibido = true;
