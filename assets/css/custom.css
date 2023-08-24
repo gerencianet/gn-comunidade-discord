@@ -20,7 +20,7 @@ body.loading:before {
     align-content: center;
     justify-content: space-around;
     align-items: center;
-    background: url('https://gerencianet.com.br/wp-content/themes/Gerencianet/assets/images/svg/logo-gerencianet-footer.svg') #242939 no-repeat center center;
+    background: url('https://raw.githubusercontent.com/efipay/comunidade-discord-efi/main/assets/img/logo-efi-footer.svg') #242939 no-repeat center center;
     background-size: 130px;
     animation: flash 1s linear infinite;
     z-index: 9;
